@@ -1,39 +1,9 @@
 {
-  "items": [
-    {
-      "description": "The following table contains a list of papers that are directly related to CLIP, or that extend CLIP in some way, such as by improving the training process, or by changing the data filtering process. Every entry in this table is distinguished by contrastive learning being the primary pretraining objective, as opposed to models than employ multiple pretraining objectives, combining contrastive learning with other pretraining objectives masked language modeling (MLM).",
-      "items": [],
-      "title": "Contrastive Language-Image Pretraining (CLIP)"
-    },
-    {
-      "description": "This section contains collections of papers that are related to contrastive pretraining for other modalities, such as audio, video, and 3D data.",
-      "items": [],
-      "title": "Contrastive Pretraining for Other Modalities"
-    },
-    {
-      "description": "Models that use CLIP-style contrastive learning as a pretraining objective for audio.",
-      "items": [],
-      "title": "Audio"
-    },
-    {
-      "description": "Models that extend CLIP to the video domain.",
-      "items": [],
-      "title": "Video"
-    },
-    {
-      "description": "Models that extend CLIP to the 3D domain.",
-      "items": [],
-      "title": "3D"
-    },
-    {
-      "description": "Contributions are welcome! Submit a pull request to add a new paper, or to update an existing paper. Please follow the format of the existing papers in the table 😄",
-      "items": [],
-      "title": "👋 Contributing"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T23:58:07.833Z",
+    "last_updated": "2026-08-19T12:19:20.242Z",
     "original_repository": "jacobmarks/awesome-clip-papers",
+    "original_repository_id": 739113899,
     "original_repository_sha": "613b8702eba054d32a317126b76fb2289b5343bf",
     "enhanced_repository": "enhansome/enhansome-clip-papers",
     "enhanced_repository_description": null,
