@@ -1,7 +1,857 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "The following table contains a list of papers that are directly related to CLIP, or that extend CLIP in some way, such as by improving the training process, or by changing the data filtering process. Every entry in this table is distinguished by contrastive learning being the primary pretraining objective, as opposed to models than employ multiple pretraining objectives, combining contrastive learning with other pretraining objectives masked language modeling (MLM).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321960447,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-25T18:46:40Z",
+            "owner": "openai",
+            "repo": "CLIP",
+            "stars": 34218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321960447,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-25T18:46:40Z",
+            "owner": "openai",
+            "repo": "CLIP",
+            "stars": 34218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Card",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321960447,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-25T18:46:40Z",
+            "owner": "openai",
+            "repo": "CLIP",
+            "stars": 34218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloob",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 419761260,
+            "language": "Python",
+            "last_commit": "2022-06-13T07:43:07Z",
+            "owner": "ml-jku",
+            "repo": "cloob",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 419761260,
+            "language": "Python",
+            "last_commit": "2022-06-13T07:43:07Z",
+            "owner": "ml-jku",
+            "repo": "cloob",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeCLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415237842,
+            "language": "Python",
+            "last_commit": "2022-09-19T03:50:23Z",
+            "owner": "Sense-GVT",
+            "repo": "DeCLIP",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415237842,
+            "language": "Python",
+            "last_commit": "2022-09-19T03:50:23Z",
+            "owner": "Sense-GVT",
+            "repo": "DeCLIP",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeCLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415237842,
+            "language": "Python",
+            "last_commit": "2022-09-19T03:50:23Z",
+            "owner": "Sense-GVT",
+            "repo": "DeCLIP",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415237842,
+            "language": "Python",
+            "last_commit": "2022-09-19T03:50:23Z",
+            "owner": "Sense-GVT",
+            "repo": "DeCLIP",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "klite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 545628712,
+            "language": "Python",
+            "last_commit": "2023-06-12T21:53:24Z",
+            "owner": "microsoft",
+            "repo": "klite",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 545628712,
+            "language": "Python",
+            "last_commit": "2023-06-12T21:53:24Z",
+            "owner": "microsoft",
+            "repo": "klite",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyCLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428084074,
+            "language": "Python",
+            "last_commit": "2023-02-21T08:39:27Z",
+            "owner": "goel-shashank",
+            "repo": "CyCLIP",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428084074,
+            "language": "Python",
+            "last_commit": "2023-02-21T08:39:27Z",
+            "owner": "goel-shashank",
+            "repo": "CyCLIP",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 584915184,
+            "language": "Python",
+            "last_commit": "2023-03-30T06:04:01Z",
+            "owner": "facebookresearch",
+            "repo": "flip",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 584915184,
+            "language": "Python",
+            "last_commit": "2023-03-30T06:04:01Z",
+            "owner": "facebookresearch",
+            "repo": "flip",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open_clip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390536799,
+            "language": "Python",
+            "last_commit": "2026-08-23T20:06:40Z",
+            "owner": "mlfoundations",
+            "repo": "open_clip",
+            "stars": 14085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390536799,
+            "language": "Python",
+            "last_commit": "2026-08-23T20:06:40Z",
+            "owner": "mlfoundations",
+            "repo": "open_clip",
+            "stars": 14085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Card",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390536799,
+            "language": "Python",
+            "last_commit": "2026-08-23T20:06:40Z",
+            "owner": "mlfoundations",
+            "repo": "open_clip",
+            "stars": 14085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 565730722,
+            "language": "Python",
+            "last_commit": "2024-08-01T14:49:48Z",
+            "owner": "baaivision",
+            "repo": "EVA",
+            "stars": 2690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Card",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 565730722,
+            "language": "Python",
+            "last_commit": "2024-08-01T14:49:48Z",
+            "owner": "baaivision",
+            "repo": "EVA",
+            "stars": 2690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "big_vision",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 477682941,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-19T13:55:52Z",
+            "owner": "google-research",
+            "repo": "big_vision",
+            "stars": 3523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 477682941,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-19T13:55:52Z",
+            "owner": "google-research",
+            "repo": "big_vision",
+            "stars": 3523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIPA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633155384,
+            "language": "Python",
+            "last_commit": "2024-06-03T22:29:16Z",
+            "owner": "UCSC-VLAA",
+            "repo": "CLIPA",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633155384,
+            "language": "Python",
+            "last_commit": "2024-06-03T22:29:16Z",
+            "owner": "UCSC-VLAA",
+            "repo": "CLIPA",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaCLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697602443,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:09:16Z",
+            "owner": "facebookresearch",
+            "repo": "MetaCLIP",
+            "stars": 1854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697602443,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:09:16Z",
+            "owner": "facebookresearch",
+            "repo": "MetaCLIP",
+            "stars": 1854
+          }
+        }
+      ],
+      "title": "Contrastive Language-Image Pretraining (CLIP)"
+    },
+    {
+      "description": "Models that extend CLIP by adding additional pretraining objectives, such as masked language modeling (MLM).\nThe acronyms used in the table below are as follows:\nAll models in this table also use CLIP-style contrastive learning as a pretraining objective.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 440678688,
+            "language": "Python",
+            "last_commit": "2023-02-09T10:23:37Z",
+            "owner": "facebookresearch",
+            "repo": "SLIP",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 440678688,
+            "language": "Python",
+            "last_commit": "2023-02-09T10:23:37Z",
+            "owner": "facebookresearch",
+            "repo": "SLIP",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLAVA",
+          "description": "2021 12 FLAVA: A Foundational Language And Vision Alignment Model ITM+MMM+MIM+MLM ✔️ License",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 452825945,
+            "language": "Python",
+            "last_commit": "2026-08-17T15:05:57Z",
+            "owner": "facebookresearch",
+            "repo": "multimodal",
+            "stars": 1732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 451691984,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-03T12:43:12Z",
+            "owner": "salesforce",
+            "repo": "BLIP",
+            "stars": 5717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 451691984,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-03T12:43:12Z",
+            "owner": "salesforce",
+            "repo": "BLIP",
+            "stars": 5717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaskCLIP",
+          "description": "2022 8 MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining MLM+MSD ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 528458198,
+            "language": null,
+            "last_commit": "2023-04-13T02:33:05Z",
+            "owner": "LightDXY",
+            "repo": "MaskCLIP",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViCHA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530231161,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-20T14:44:05Z",
+            "owner": "mshukor",
+            "repo": "ViCHA",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530231161,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-20T14:44:05Z",
+            "owner": "mshukor",
+            "repo": "ViCHA",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RILS",
+          "description": "2023 1 RILS: Masked Visual Reconstruction in Language Semantic Space MIM ❌",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 589493482,
+            "language": "Python",
+            "last_commit": "2023-09-05T14:23:56Z",
+            "owner": "hustvl",
+            "repo": "RILS",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileCLIP",
+          "description": "2023 11 MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training MMR ✔️ License",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 765465710,
+            "language": "Python",
+            "last_commit": "2026-04-15T00:55:23Z",
+            "owner": "apple",
+            "repo": "ml-mobileclip",
+            "stars": 1627
+          }
+        }
+      ],
+      "title": "CLIP + Additional Pretraining Objectives"
+    },
+    {
+      "description": "This section contains collections of papers that are related to contrastive pretraining for other modalities, such as audio, video, and 3D data.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AudioCLIP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379928229,
+                "language": "Python",
+                "last_commit": "2021-09-30T07:32:24Z",
+                "owner": "AndreyGuzhov",
+                "repo": "AudioCLIP",
+                "stars": 873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379928229,
+                "language": "Python",
+                "last_commit": "2021-09-30T07:32:24Z",
+                "owner": "AndreyGuzhov",
+                "repo": "AudioCLIP",
+                "stars": 873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lyrebird-wav2clip",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 404854191,
+                "language": "Python",
+                "last_commit": "2022-02-15T19:36:57Z",
+                "owner": "descriptinc",
+                "repo": "lyrebird-wav2clip",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 404854191,
+                "language": "Python",
+                "last_commit": "2022-02-15T19:36:57Z",
+                "owner": "descriptinc",
+                "repo": "lyrebird-wav2clip",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpeechCLIP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544751289,
+                "language": "Python",
+                "last_commit": "2022-11-25T01:12:24Z",
+                "owner": "atosystem",
+                "repo": "SpeechCLIP",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544751289,
+                "language": "Python",
+                "last_commit": "2022-11-25T01:12:24Z",
+                "owner": "atosystem",
+                "repo": "SpeechCLIP",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CLAP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466845016,
+                "language": "Python",
+                "last_commit": "2025-05-15T19:55:29Z",
+                "owner": "LAION-AI",
+                "repo": "CLAP",
+                "stars": 2255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466845016,
+                "language": "Python",
+                "last_commit": "2025-05-15T19:55:29Z",
+                "owner": "LAION-AI",
+                "repo": "CLAP",
+                "stars": 2255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tortoise-tts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452939314,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-19T18:59:13Z",
+                "owner": "neonbjb",
+                "repo": "tortoise-tts",
+                "stars": 14867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452939314,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-19T18:59:13Z",
+                "owner": "neonbjb",
+                "repo": "tortoise-tts",
+                "stars": 14867
+              }
+            }
+          ],
+          "description": "Models that use CLIP-style contrastive learning as a pretraining objective for audio.",
+          "node_type": "group",
+          "title": "Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CLIP4Clip",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357478494,
+                "language": "Python",
+                "last_commit": "2024-04-12T14:37:10Z",
+                "owner": "ArrowLuo",
+                "repo": "CLIP4Clip",
+                "stars": 1031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357478494,
+                "language": "Python",
+                "last_commit": "2024-04-12T14:37:10Z",
+                "owner": "ArrowLuo",
+                "repo": "CLIP4Clip",
+                "stars": 1031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fairseq",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101782647,
+                "language": "Python",
+                "last_commit": "2025-09-30T11:16:06Z",
+                "owner": "facebookresearch",
+                "repo": "fairseq",
+                "stars": 32235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101782647,
+                "language": "Python",
+                "last_commit": "2025-09-30T11:16:06Z",
+                "owner": "facebookresearch",
+                "repo": "fairseq",
+                "stars": 32235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "X-CLIP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538518826,
+                "language": "Python",
+                "last_commit": "2024-04-06T17:47:47Z",
+                "owner": "xuguohai",
+                "repo": "X-CLIP",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538518826,
+                "language": "Python",
+                "last_commit": "2024-04-06T17:47:47Z",
+                "owner": "xuguohai",
+                "repo": "X-CLIP",
+                "stars": 187
+              }
+            }
+          ],
+          "description": "Models that extend CLIP to the video domain.",
+          "node_type": "group",
+          "title": "Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PointCLIP",
+              "description": "2021 12 PointCLIP: Point Cloud Understanding by CLIP point cloud + text ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434701576,
+                "language": "Python",
+                "last_commit": "2022-11-24T06:24:14Z",
+                "owner": "ZrrSkywalker",
+                "repo": "PointCLIP",
+                "stars": 411
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CLIP2Point",
+              "description": "2022 10 CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training point cloud + text ✔️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545218665,
+                "language": "Python",
+                "last_commit": "2024-01-18T12:36:50Z",
+                "owner": "tyhuang0428",
+                "repo": "CLIP2Point",
+                "stars": 130
+              }
+            }
+          ],
+          "description": "Models that extend CLIP to the 3D domain.",
+          "node_type": "group",
+          "title": "3D"
+        }
+      ],
+      "title": "Contrastive Pretraining for Other Modalities"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T23:57:01.988Z",
+    "last_updated": "2026-08-24T14:43:28.244Z",
     "original_repository": "jacobmarks/awesome-clip-papers",
     "original_repository_id": 739113899,
     "original_repository_sha": "613b8702eba054d32a317126b76fb2289b5343bf",
