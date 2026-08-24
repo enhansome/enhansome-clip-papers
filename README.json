@@ -240,7 +240,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14085
+            "stars": 14086
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14085
+            "stars": 14086
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14085
+            "stars": 14086
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3523
+            "stars": 3524
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3523
+            "stars": 3524
           }
         },
         {
@@ -438,10 +438,10 @@
             "archived": false,
             "id": 452825945,
             "language": "Python",
-            "last_commit": "2026-08-17T15:05:57Z",
+            "last_commit": "2026-08-24T15:05:20Z",
             "owner": "facebookresearch",
             "repo": "multimodal",
-            "stars": 1732
+            "stars": 1733
           }
         },
         {
@@ -689,7 +689,7 @@
                 "last_commit": "2024-11-19T18:59:13Z",
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14867
+                "stars": 14868
               }
             },
             {
@@ -704,7 +704,7 @@
                 "last_commit": "2024-11-19T18:59:13Z",
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14867
+                "stars": 14868
               }
             }
           ],
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:28.244Z",
+    "last_updated": "2026-08-24T23:58:02.467Z",
     "original_repository": "jacobmarks/awesome-clip-papers",
     "original_repository_id": 739113899,
     "original_repository_sha": "613b8702eba054d32a317126b76fb2289b5343bf",
