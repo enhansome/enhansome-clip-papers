@@ -15,7 +15,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34218
+            "stars": 34221
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34218
+            "stars": 34221
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34218
+            "stars": 34221
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14086
+            "stars": 14089
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14086
+            "stars": 14089
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14086
+            "stars": 14089
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3524
+            "stars": 3525
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3524
+            "stars": 3525
           }
         },
         {
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "FLAVA",
-          "description": "2021 12 FLAVA: A Foundational Language And Vision Alignment Model ITM+MMM+MIM+MLM ✔️ License",
+          "description": "2021 12 FLAVA: A Foundational Language And Vision Alignment Model ITM+MMM+MIM+MLM   ✔️ License",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -477,7 +477,7 @@
         {
           "node_type": "item",
           "title": "MaskCLIP",
-          "description": "2022 8 MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining MLM+MSD ❌",
+          "description": "2022 8 MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining MLM+MSD   ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -522,7 +522,7 @@
         {
           "node_type": "item",
           "title": "RILS",
-          "description": "2023 1 RILS: Masked Visual Reconstruction in Language Semantic Space MIM ❌",
+          "description": "2023 1 RILS: Masked Visual Reconstruction in Language Semantic Space MIM   ❌",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "MobileCLIP",
-          "description": "2023 11 MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training MMR ✔️ License",
+          "description": "2023 11 MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training MMR   ✔️ License",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -546,7 +546,7 @@
             "last_commit": "2026-04-15T00:55:23Z",
             "owner": "apple",
             "repo": "ml-mobileclip",
-            "stars": 1627
+            "stars": 1626
           }
         }
       ],
@@ -689,7 +689,7 @@
                 "last_commit": "2024-11-19T18:59:13Z",
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14868
+                "stars": 14869
               }
             },
             {
@@ -704,7 +704,7 @@
                 "last_commit": "2024-11-19T18:59:13Z",
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14868
+                "stars": 14869
               }
             }
           ],
@@ -814,7 +814,7 @@
             {
               "node_type": "item",
               "title": "PointCLIP",
-              "description": "2021 12 PointCLIP: Point Cloud Understanding by CLIP point cloud + text ✔️",
+              "description": "2021 12 PointCLIP: Point Cloud Understanding by CLIP point cloud + text   ✔️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,7 +829,7 @@
             {
               "node_type": "item",
               "title": "CLIP2Point",
-              "description": "2022 10 CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training point cloud + text ✔️",
+              "description": "2022 10 CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training point cloud + text   ✔️",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:58:02.467Z",
+    "last_updated": "2026-08-25T06:36:07.342Z",
     "original_repository": "jacobmarks/awesome-clip-papers",
     "original_repository_id": 739113899,
     "original_repository_sha": "613b8702eba054d32a317126b76fb2289b5343bf",
