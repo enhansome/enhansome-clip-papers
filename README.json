@@ -15,7 +15,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34237
+            "stars": 34239
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34237
+            "stars": 34239
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34237
+            "stars": 34239
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2024-08-01T14:49:48Z",
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2691
+            "stars": 2692
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2024-08-01T14:49:48Z",
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2691
+            "stars": 2692
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3529
+            "stars": 3530
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3529
+            "stars": 3530
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-03-03T12:43:12Z",
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5717
+            "stars": 5716
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-03-03T12:43:12Z",
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5717
+            "stars": 5716
           }
         },
         {
@@ -851,9 +851,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:23.617Z",
-    "original_repository": "jacobmarks/awesome-clip-papers",
-    "original_repository_id": 739113899,
+    "last_updated": "2026-08-27T11:31:29.994Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 739113899,
+      "language": "Python",
+      "last_commit": "2024-03-05T19:46:11Z",
+      "owner": "jacobmarks",
+      "repo": "awesome-clip-papers",
+      "stars": 79
+    },
     "original_repository_sha": "613b8702eba054d32a317126b76fb2289b5343bf",
     "enhanced_repository": "enhansome/enhansome-clip-papers",
     "enhanced_repository_description": null,
