@@ -15,7 +15,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34224
+            "stars": 34237
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34224
+            "stars": 34237
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34224
+            "stars": 34237
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-09-19T03:50:23Z",
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-09-19T03:50:23Z",
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2022-09-19T03:50:23Z",
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2022-09-19T03:50:23Z",
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14092
+            "stars": 14096
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14092
+            "stars": 14096
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-23T20:06:40Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14092
+            "stars": 14096
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3526
+            "stars": 3529
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2025-05-19T13:55:52Z",
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3526
+            "stars": 3529
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-04-15T00:55:23Z",
             "owner": "apple",
             "repo": "ml-mobileclip",
-            "stars": 1626
+            "stars": 1627
           }
         }
       ],
@@ -659,7 +659,7 @@
                 "last_commit": "2025-05-15T19:55:29Z",
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2255
+                "stars": 2256
               }
             },
             {
@@ -674,7 +674,7 @@
                 "last_commit": "2025-05-15T19:55:29Z",
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2255
+                "stars": 2256
               }
             },
             {
@@ -689,7 +689,7 @@
                 "last_commit": "2024-11-19T18:59:13Z",
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14871
+                "stars": 14870
               }
             },
             {
@@ -704,7 +704,7 @@
                 "last_commit": "2024-11-19T18:59:13Z",
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14871
+                "stars": 14870
               }
             }
           ],
@@ -756,7 +756,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32231
               }
             },
             {
@@ -771,7 +771,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32231
               }
             },
             {
@@ -851,7 +851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:59:21.359Z",
+    "last_updated": "2026-08-27T05:08:23.617Z",
     "original_repository": "jacobmarks/awesome-clip-papers",
     "original_repository_id": 739113899,
     "original_repository_sha": "613b8702eba054d32a317126b76fb2289b5343bf",
