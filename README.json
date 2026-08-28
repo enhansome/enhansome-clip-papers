@@ -15,8 +15,9 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34239
-          }
+            "stars": 34240
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34239
-          }
+            "stars": 34240
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-03-25T18:46:40Z",
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34239
-          }
+            "stars": 34240
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "ml-jku",
             "repo": "cloob",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ml-jku",
             "repo": "cloob",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "microsoft",
             "repo": "klite",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "microsoft",
             "repo": "klite",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "goel-shashank",
             "repo": "CyCLIP",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "goel-shashank",
             "repo": "CyCLIP",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "facebookresearch",
             "repo": "flip",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "facebookresearch",
             "repo": "flip",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -237,11 +252,12 @@
             "archived": false,
             "id": 390536799,
             "language": "Python",
-            "last_commit": "2026-08-23T20:06:40Z",
+            "last_commit": "2026-08-28T03:43:52Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14096
-          }
+            "stars": 14100
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -252,11 +268,12 @@
             "archived": false,
             "id": 390536799,
             "language": "Python",
-            "last_commit": "2026-08-23T20:06:40Z",
+            "last_commit": "2026-08-28T03:43:52Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14096
-          }
+            "stars": 14100
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -267,11 +284,12 @@
             "archived": false,
             "id": 390536799,
             "language": "Python",
-            "last_commit": "2026-08-23T20:06:40Z",
+            "last_commit": "2026-08-28T03:43:52Z",
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14096
-          }
+            "stars": 14100
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -285,8 +303,9 @@
             "last_commit": "2024-08-01T14:49:48Z",
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2692
-          }
+            "stars": 2693
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -300,8 +319,9 @@
             "last_commit": "2024-08-01T14:49:48Z",
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2692
-          }
+            "stars": 2693
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "google-research",
             "repo": "big_vision",
             "stars": 3530
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "google-research",
             "repo": "big_vision",
             "stars": 3530
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
             "stars": 1854
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
             "stars": 1854
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         }
       ],
       "title": "Contrastive Language-Image Pretraining (CLIP)"
@@ -412,7 +438,8 @@
             "owner": "facebookresearch",
             "repo": "SLIP",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "facebookresearch",
             "repo": "SLIP",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "facebookresearch",
             "repo": "multimodal",
             "stars": 1732
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "salesforce",
             "repo": "BLIP",
             "stars": 5716
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "salesforce",
             "repo": "BLIP",
             "stars": 5716
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "LightDXY",
             "repo": "MaskCLIP",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "mshukor",
             "repo": "ViCHA",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "mshukor",
             "repo": "ViCHA",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "hustvl",
             "repo": "RILS",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         },
         {
           "node_type": "item",
@@ -546,8 +581,9 @@
             "last_commit": "2026-04-15T00:55:23Z",
             "owner": "apple",
             "repo": "ml-mobileclip",
-            "stars": 1627
-          }
+            "stars": 1628
+          },
+          "first_seen": "2026-08-28T07:04:50.829Z"
         }
       ],
       "title": "CLIP + Additional Pretraining Objectives"
@@ -570,7 +606,8 @@
                 "owner": "AndreyGuzhov",
                 "repo": "AudioCLIP",
                 "stars": 873
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -585,7 +622,8 @@
                 "owner": "AndreyGuzhov",
                 "repo": "AudioCLIP",
                 "stars": 873
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -600,7 +638,8 @@
                 "owner": "descriptinc",
                 "repo": "lyrebird-wav2clip",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -615,7 +654,8 @@
                 "owner": "descriptinc",
                 "repo": "lyrebird-wav2clip",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -630,7 +670,8 @@
                 "owner": "atosystem",
                 "repo": "SpeechCLIP",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -645,7 +686,8 @@
                 "owner": "atosystem",
                 "repo": "SpeechCLIP",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -659,8 +701,9 @@
                 "last_commit": "2025-05-15T19:55:29Z",
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2256
-              }
+                "stars": 2257
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -674,8 +717,9 @@
                 "last_commit": "2025-05-15T19:55:29Z",
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2256
-              }
+                "stars": 2257
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -690,7 +734,8 @@
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
                 "stars": 14870
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -705,7 +750,8 @@
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
                 "stars": 14870
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             }
           ],
           "description": "Models that use CLIP-style contrastive learning as a pretraining objective for audio.",
@@ -727,7 +773,8 @@
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
                 "stars": 1031
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -742,7 +789,8 @@
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
                 "stars": 1031
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -756,8 +804,9 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231
-              }
+                "stars": 32232
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -771,8 +820,9 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32231
-              }
+                "stars": 32232
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -787,7 +837,8 @@
                 "owner": "xuguohai",
                 "repo": "X-CLIP",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -802,7 +853,8 @@
                 "owner": "xuguohai",
                 "repo": "X-CLIP",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             }
           ],
           "description": "Models that extend CLIP to the video domain.",
@@ -824,7 +876,8 @@
                 "owner": "ZrrSkywalker",
                 "repo": "PointCLIP",
                 "stars": 411
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             },
             {
               "node_type": "item",
@@ -839,7 +892,8 @@
                 "owner": "tyhuang0428",
                 "repo": "CLIP2Point",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T07:04:50.829Z"
             }
           ],
           "description": "Models that extend CLIP to the 3D domain.",
@@ -851,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:29.994Z",
+    "last_updated": "2026-08-28T07:04:50.829Z",
     "original_repository_info": {
       "archived": false,
       "id": 739113899,
