@@ -19,7 +19,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34241,
+            "stars": 34240,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34241,
+            "stars": 34240,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34241,
+            "stars": 34240,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -515,7 +515,7 @@
             "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3530,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -536,7 +536,7 @@
             "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3530,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -728,7 +728,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5716,
+            "stars": 5715,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -757,7 +757,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5716,
+            "stars": 5715,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:45.837Z",
+    "last_updated": "2026-08-29T05:04:08.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
