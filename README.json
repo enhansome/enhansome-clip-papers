@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+            "homepage": null,
             "id": 321960447,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
+            "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34240
+            "stars": 34241,
+            "topics": [
+              "deep-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -26,12 +34,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+            "homepage": null,
             "id": 321960447,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
+            "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34240
+            "stars": 34241,
+            "topics": [
+              "deep-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -42,12 +58,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+            "homepage": null,
             "id": 321960447,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
+            "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34240
+            "stars": 34241,
+            "topics": [
+              "deep-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -58,12 +82,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 419761260,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-13T07:43:07Z",
+            "open_issues": 3,
             "owner": "ml-jku",
             "repo": "cloob",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -74,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 419761260,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-13T07:43:07Z",
+            "open_issues": 3,
             "owner": "ml-jku",
             "repo": "cloob",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -90,12 +124,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm",
+            "homepage": null,
             "id": 415237842,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-19T03:50:23Z",
+            "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 678
+            "stars": 678,
+            "topics": [
+              "big-model",
+              "clip",
+              "image-text",
+              "multi-model",
+              "self-supervised",
+              "vision-language-pretraining",
+              "zero-shot"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -106,12 +153,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm",
+            "homepage": null,
             "id": 415237842,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-19T03:50:23Z",
+            "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 678
+            "stars": 678,
+            "topics": [
+              "big-model",
+              "clip",
+              "image-text",
+              "multi-model",
+              "self-supervised",
+              "vision-language-pretraining",
+              "zero-shot"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -122,12 +182,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm",
+            "homepage": null,
             "id": 415237842,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-19T03:50:23Z",
+            "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 678
+            "stars": 678,
+            "topics": [
+              "big-model",
+              "clip",
+              "image-text",
+              "multi-model",
+              "self-supervised",
+              "vision-language-pretraining",
+              "zero-shot"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -138,12 +211,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm",
+            "homepage": null,
             "id": 415237842,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-19T03:50:23Z",
+            "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 678
+            "stars": 678,
+            "topics": [
+              "big-model",
+              "clip",
+              "image-text",
+              "multi-model",
+              "self-supervised",
+              "vision-language-pretraining",
+              "zero-shot"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -154,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[NeurIPS 2022] code for \"K-LITE: Learning Transferable Visual Models with External Knowledge\" https://arxiv.org/abs/2204.09222",
+            "homepage": null,
             "id": 545628712,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T21:53:24Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "klite",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -170,12 +261,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[NeurIPS 2022] code for \"K-LITE: Learning Transferable Visual Models with External Knowledge\" https://arxiv.org/abs/2204.09222",
+            "homepage": null,
             "id": 545628712,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T21:53:24Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "klite",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -186,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 428084074,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-21T08:39:27Z",
+            "open_issues": 2,
             "owner": "goel-shashank",
             "repo": "CyCLIP",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -202,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 428084074,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-21T08:39:27Z",
+            "open_issues": 2,
             "owner": "goel-shashank",
             "repo": "CyCLIP",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -218,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official Open Source code for \"Scaling Language-Image Pre-training via Masking\"",
+            "homepage": null,
             "id": 584915184,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-30T06:04:01Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "flip",
-            "stars": 427
+            "stars": 427,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -234,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official Open Source code for \"Scaling Language-Image Pre-training via Masking\"",
+            "homepage": null,
             "id": 584915184,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-30T06:04:01Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "flip",
-            "stars": 427
+            "stars": 427,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -250,12 +366,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source implementation of CLIP.",
+            "homepage": null,
             "id": 390536799,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:43:52Z",
+            "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14100
+            "stars": 14101,
+            "topics": [
+              "computer-vision",
+              "contrastive-loss",
+              "deep-learning",
+              "language-model",
+              "multi-modal-learning",
+              "pretrained-models",
+              "pytorch",
+              "zero-shot-classification"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -266,12 +396,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source implementation of CLIP.",
+            "homepage": null,
             "id": 390536799,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:43:52Z",
+            "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14100
+            "stars": 14101,
+            "topics": [
+              "computer-vision",
+              "contrastive-loss",
+              "deep-learning",
+              "language-model",
+              "multi-modal-learning",
+              "pretrained-models",
+              "pytorch",
+              "zero-shot-classification"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -282,12 +426,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source implementation of CLIP.",
+            "homepage": null,
             "id": 390536799,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:43:52Z",
+            "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14100
+            "stars": 14101,
+            "topics": [
+              "computer-vision",
+              "contrastive-loss",
+              "deep-learning",
+              "language-model",
+              "multi-modal-learning",
+              "pretrained-models",
+              "pytorch",
+              "zero-shot-classification"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -298,12 +456,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EVA Series: Visual Representation Fantasies from BAAI",
+            "homepage": null,
             "id": 565730722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-01T14:49:48Z",
+            "open_issues": 79,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2693
+            "stars": 2693,
+            "topics": [
+              "foundation-models",
+              "representation-learning",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -314,12 +481,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EVA Series: Visual Representation Fantasies from BAAI",
+            "homepage": null,
             "id": 565730722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-01T14:49:48Z",
+            "open_issues": 79,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2693
+            "stars": 2693,
+            "topics": [
+              "foundation-models",
+              "representation-learning",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -330,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+            "homepage": null,
             "id": 477682941,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-19T13:55:52Z",
+            "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3530
+            "stars": 3530,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -346,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+            "homepage": null,
             "id": 477682941,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-19T13:55:52Z",
+            "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3530
+            "stars": 3530,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -362,12 +548,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] This repository includes the official implementation of our paper \"An Inverse Scaling Law for CLIP Training\"",
+            "homepage": null,
             "id": 633155384,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-03T22:29:16Z",
+            "open_issues": 1,
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "contrastive-learning",
+              "deep-learning",
+              "foundation-models",
+              "multimodal-learning",
+              "neurips-2023",
+              "pytorch",
+              "zero-shot-classification",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -378,12 +578,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] This repository includes the official implementation of our paper \"An Inverse Scaling Law for CLIP Training\"",
+            "homepage": null,
             "id": 633155384,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-03T22:29:16Z",
+            "open_issues": 1,
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "contrastive-learning",
+              "deep-learning",
+              "foundation-models",
+              "multimodal-learning",
+              "neurips-2023",
+              "pytorch",
+              "zero-shot-classification",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -394,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS 2025 Spotlight; ICLR2024 Spotlight; CVPR 2024; EMNLP 2024",
+            "homepage": null,
             "id": 697602443,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T20:09:16Z",
+            "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
-            "stars": 1854
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -410,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS 2025 Spotlight; ICLR2024 Spotlight; CVPR 2024; EMNLP 2024",
+            "homepage": null,
             "id": 697602443,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T20:09:16Z",
+            "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
-            "stars": 1854
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         }
@@ -432,12 +656,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code release for SLIP Self-supervision meets Language-Image Pre-training",
+            "homepage": null,
             "id": 440678688,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-09T10:23:37Z",
+            "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "SLIP",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -448,12 +677,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code release for SLIP Self-supervision meets Language-Image Pre-training",
+            "homepage": null,
             "id": 440678688,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-09T10:23:37Z",
+            "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "SLIP",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -464,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.",
+            "homepage": null,
             "id": 452825945,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T15:05:20Z",
+            "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
-            "stars": 1732
+            "stars": 1732,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -480,12 +719,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ",
+            "homepage": null,
             "id": 451691984,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-03T12:43:12Z",
+            "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5716
+            "stars": 5716,
+            "topics": [
+              "image-captioning",
+              "image-text-retrieval",
+              "vision-and-language-pre-training",
+              "vision-language",
+              "vision-language-transformer",
+              "visual-question-answering",
+              "visual-reasoning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -496,12 +748,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ",
+            "homepage": null,
             "id": 451691984,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-03T12:43:12Z",
+            "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5716
+            "stars": 5716,
+            "topics": [
+              "image-captioning",
+              "image-text-retrieval",
+              "vision-and-language-pre-training",
+              "vision-language",
+              "vision-language-transformer",
+              "visual-question-answering",
+              "visual-reasoning"
+            ]
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -512,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 528458198,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-13T02:33:05Z",
+            "open_issues": 7,
             "owner": "LightDXY",
             "repo": "MaskCLIP",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -528,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[BMVC22] Official Implementation of ViCHA: \"Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment\"",
+            "homepage": null,
             "id": 530231161,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-10-20T14:44:05Z",
+            "open_issues": 2,
             "owner": "mshukor",
             "repo": "ViCHA",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -544,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[BMVC22] Official Implementation of ViCHA: \"Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment\"",
+            "homepage": null,
             "id": 530231161,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-10-20T14:44:05Z",
+            "open_issues": 2,
             "owner": "mshukor",
             "repo": "ViCHA",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -560,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] RILS: Masked Visual Reconstruction in Language Semantic Space (https://arxiv.org/abs/2301.06958)",
+            "homepage": null,
             "id": 589493482,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-05T14:23:56Z",
+            "open_issues": 1,
             "owner": "hustvl",
             "repo": "RILS",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         },
@@ -576,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the official implementation of the research papers, \"MobileCLIP\" CVPR 2024 and \"MobileCLIP2\" TMLR August 2025",
+            "homepage": null,
             "id": 765465710,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-15T00:55:23Z",
+            "open_issues": 1,
             "owner": "apple",
             "repo": "ml-mobileclip",
-            "stars": 1628
+            "stars": 1628,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
         }
@@ -600,12 +890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for models described in the paper \"AudioCLIP: Extending CLIP to Image, Text and Audio\" (https://arxiv.org/abs/2106.13043)",
+                "homepage": null,
                 "id": 379928229,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-30T07:32:24Z",
+                "open_issues": 3,
                 "owner": "AndreyGuzhov",
                 "repo": "AudioCLIP",
-                "stars": 873
+                "stars": 873,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -616,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for models described in the paper \"AudioCLIP: Extending CLIP to Image, Text and Audio\" (https://arxiv.org/abs/2106.13043)",
+                "homepage": null,
                 "id": 379928229,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-30T07:32:24Z",
+                "open_issues": 3,
                 "owner": "AndreyGuzhov",
                 "repo": "AudioCLIP",
-                "stars": 873
+                "stars": 873,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -632,12 +932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the paper WAV2CLIP: LEARNING ROBUST AUDIO REPRESENTATIONS FROM CLIP",
+                "homepage": null,
                 "id": 404854191,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-15T19:36:57Z",
+                "open_issues": 12,
                 "owner": "descriptinc",
                 "repo": "lyrebird-wav2clip",
-                "stars": 360
+                "stars": 360,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -648,12 +953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the paper WAV2CLIP: LEARNING ROBUST AUDIO REPRESENTATIONS FROM CLIP",
+                "homepage": null,
                 "id": 404854191,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-15T19:36:57Z",
+                "open_issues": 12,
                 "owner": "descriptinc",
                 "repo": "lyrebird-wav2clip",
-                "stars": 360
+                "stars": 360,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -664,12 +974,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model, Accepted to IEEE SLT 2022",
+                "homepage": "https://atosystem.github.io/blogs/speechclip",
                 "id": 544751289,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-11-25T01:12:24Z",
+                "open_issues": 1,
                 "owner": "atosystem",
                 "repo": "SpeechCLIP",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "clip",
+                  "deep-learning",
+                  "pytorch",
+                  "speech-processing",
+                  "visually-grounded-speech"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -680,12 +1001,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model, Accepted to IEEE SLT 2022",
+                "homepage": "https://atosystem.github.io/blogs/speechclip",
                 "id": 544751289,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-11-25T01:12:24Z",
+                "open_issues": 1,
                 "owner": "atosystem",
                 "repo": "SpeechCLIP",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "clip",
+                  "deep-learning",
+                  "pytorch",
+                  "speech-processing",
+                  "visually-grounded-speech"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -696,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contrastive Language-Audio Pretraining",
+                "homepage": "https://arxiv.org/abs/2211.06687",
                 "id": 466845016,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-15T19:55:29Z",
+                "open_issues": 67,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2257
+                "stars": 2257,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -712,12 +1049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contrastive Language-Audio Pretraining",
+                "homepage": "https://arxiv.org/abs/2211.06687",
                 "id": 466845016,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2025-05-15T19:55:29Z",
+                "open_issues": 67,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2257
+                "stars": 2257,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -728,12 +1070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-voice TTS system trained with an emphasis on quality",
+                "homepage": null,
                 "id": 452939314,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-19T18:59:13Z",
+                "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14870
+                "stars": 14870,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -744,12 +1091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-voice TTS system trained with an emphasis on quality",
+                "homepage": null,
                 "id": 452939314,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-19T18:59:13Z",
+                "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14870
+                "stars": 14870,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             }
@@ -767,12 +1119,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation for \"CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval\"",
+                "homepage": "https://arxiv.org/abs/2104.08860",
                 "id": 357478494,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-12T14:37:10Z",
+                "open_issues": 28,
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
-                "stars": 1031
+                "stars": 1031,
+                "topics": [
+                  "activitynet",
+                  "clip",
+                  "didemo",
+                  "lsmdc",
+                  "msrvtt",
+                  "msvd",
+                  "multimodal",
+                  "multimodal-learning",
+                  "multimodality",
+                  "ranking",
+                  "retrieval",
+                  "retrieval-model",
+                  "search",
+                  "video-clip-retrieval",
+                  "video-text-retrieval"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -783,12 +1156,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation for \"CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval\"",
+                "homepage": "https://arxiv.org/abs/2104.08860",
                 "id": 357478494,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-12T14:37:10Z",
+                "open_issues": 28,
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
-                "stars": 1031
+                "stars": 1031,
+                "topics": [
+                  "activitynet",
+                  "clip",
+                  "didemo",
+                  "lsmdc",
+                  "msrvtt",
+                  "msvd",
+                  "multimodal",
+                  "multimodal-learning",
+                  "multimodality",
+                  "ranking",
+                  "retrieval",
+                  "retrieval-model",
+                  "search",
+                  "video-clip-retrieval",
+                  "video-text-retrieval"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -799,12 +1193,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -815,12 +1218,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -831,12 +1243,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation for \"X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval\"",
+                "homepage": "https://arxiv.org/abs/2207.07285",
                 "id": 538518826,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-06T17:47:47Z",
+                "open_issues": 6,
                 "owner": "xuguohai",
                 "repo": "X-CLIP",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "activitynet",
+                  "didemo",
+                  "lsmdc",
+                  "msrvtt",
+                  "msvd",
+                  "multimodal",
+                  "video-text-retrieval"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -847,12 +1272,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation for \"X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval\"",
+                "homepage": "https://arxiv.org/abs/2207.07285",
                 "id": 538518826,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-06T17:47:47Z",
+                "open_issues": 6,
                 "owner": "xuguohai",
                 "repo": "X-CLIP",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "activitynet",
+                  "didemo",
+                  "lsmdc",
+                  "msrvtt",
+                  "msvd",
+                  "multimodal",
+                  "video-text-retrieval"
+                ]
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             }
@@ -870,12 +1308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP",
+                "homepage": null,
                 "id": 434701576,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-24T06:24:14Z",
+                "open_issues": 12,
                 "owner": "ZrrSkywalker",
                 "repo": "PointCLIP",
-                "stars": 411
+                "stars": 411,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             },
@@ -886,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training",
+                "homepage": null,
                 "id": 545218665,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-18T12:36:50Z",
+                "open_issues": 4,
                 "owner": "tyhuang0428",
                 "repo": "CLIP2Point",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
             }
@@ -905,15 +1353,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:04:50.829Z",
+    "last_updated": "2026-08-29T04:32:45.837Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
+      "homepage": null,
       "id": 739113899,
       "language": "Python",
+      "license": null,
       "last_commit": "2024-03-05T19:46:11Z",
+      "open_issues": 1,
       "owner": "jacobmarks",
       "repo": "awesome-clip-papers",
-      "stars": 79
+      "stars": 79,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-readme",
+        "clip",
+        "clip-model",
+        "contrastive-learning",
+        "multimodal",
+        "pretraining"
+      ]
     },
     "original_repository_sha": "613b8702eba054d32a317126b76fb2289b5343bf",
     "enhanced_repository": "enhansome/enhansome-clip-papers",
