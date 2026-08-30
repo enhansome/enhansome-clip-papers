@@ -19,7 +19,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34240,
+            "stars": 34239,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34240,
+            "stars": 34239,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34240,
+            "stars": 34239,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -372,7 +372,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:43:52Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
             "stars": 14101,
@@ -402,7 +402,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:43:52Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
             "stars": 14101,
@@ -432,7 +432,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:43:52Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
             "stars": 14101,
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232,
+                "stars": 32231,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232,
+                "stars": 32231,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:08.181Z",
+    "last_updated": "2026-08-30T01:40:33.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
