@@ -19,7 +19,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34257,
+            "stars": 34259,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34257,
+            "stars": 34259,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 272,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34257,
+            "stars": 34259,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -371,11 +371,11 @@
             "id": 390536799,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T18:24:16Z",
+            "last_commit": "2026-09-04T21:51:10Z",
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14113,
+            "stars": 14116,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -401,11 +401,11 @@
             "id": 390536799,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T18:24:16Z",
+            "last_commit": "2026-09-04T21:51:10Z",
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14113,
+            "stars": 14116,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -431,11 +431,11 @@
             "id": 390536799,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T18:24:16Z",
+            "last_commit": "2026-09-04T21:51:10Z",
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14113,
+            "stars": 14116,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -465,7 +465,7 @@
             "open_issues": 80,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -490,7 +490,7 @@
             "open_issues": 80,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -515,7 +515,7 @@
             "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3534,
+            "stars": 3535,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -536,7 +536,7 @@
             "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3534,
+            "stars": 3535,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -617,7 +617,7 @@
             "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
-            "stars": 1854,
+            "stars": 1853,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -638,7 +638,7 @@
             "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
-            "stars": 1854,
+            "stars": 1853,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 67,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2259,
+                "stars": 2260,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 67,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2259,
+                "stars": 2260,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14872,
+                "stars": 14873,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14872,
+                "stars": 14873,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:21:58.750Z",
+    "last_updated": "2026-09-05T01:25:23.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
