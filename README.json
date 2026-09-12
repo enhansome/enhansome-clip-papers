@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 272,
+            "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34283,
+            "stars": 34285,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 272,
+            "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34283,
+            "stars": 34285,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -64,10 +64,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 272,
+            "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34283,
+            "stars": 34285,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14131,
+            "stars": 14134,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14131,
+            "stars": 14134,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14131,
+            "stars": 14134,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -707,7 +707,7 @@
             "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
-            "stars": 1734,
+            "stars": 1735,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -866,9 +866,9 @@
             "id": 765465710,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-15T00:55:23Z",
+            "last_commit": "2026-09-11T16:01:27Z",
             "open_issues": 1,
-            "owner": "apple",
+            "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
             "stars": 1635,
             "topics": []
@@ -1079,7 +1079,7 @@
                 "open_issues": 348,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14872,
+                "stars": 14874,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 348,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14872,
+                "stars": 14874,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32230,
+                "stars": 32229,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32230,
+                "stars": 32229,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:28:56.200Z",
+    "last_updated": "2026-09-12T01:33:58.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
