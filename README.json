@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34286,
+            "stars": 34297,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34286,
+            "stars": 34297,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34286,
+            "stars": 34297,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14135,
+            "stars": 14138,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14135,
+            "stars": 14138,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14135,
+            "stars": 14138,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -557,7 +557,7 @@
             "open_issues": 1,
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -587,7 +587,7 @@
             "open_issues": 1,
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
-            "stars": 1636,
+            "stars": 1643,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1079,7 +1079,7 @@
                 "open_issues": 348,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14877,
+                "stars": 14876,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 348,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14877,
+                "stars": 14876,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:25:34.057Z",
+    "last_updated": "2026-09-14T01:41:29.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
@@ -1365,7 +1365,7 @@
       "open_issues": 1,
       "owner": "jacobmarks",
       "repo": "awesome-clip-papers",
-      "stars": 79,
+      "stars": 77,
       "topics": [
         "awesome",
         "awesome-list",
