@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34297,
+            "stars": 34308,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34297,
+            "stars": 34308,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34297,
+            "stars": 34308,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14138,
+            "stars": 14142,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14138,
+            "stars": 14142,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14138,
+            "stars": 14142,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -462,10 +462,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-08-01T14:49:48Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2695,
+            "stars": 2694,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -487,10 +487,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-08-01T14:49:48Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2695,
+            "stars": 2694,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -614,7 +614,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-11T20:09:16Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
             "stars": 1853,
@@ -635,7 +635,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-11T20:09:16Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
             "stars": 1853,
@@ -665,7 +665,7 @@
             "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "SLIP",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -686,7 +686,7 @@
             "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "SLIP",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -703,7 +703,7 @@
             "id": 452825945,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T15:06:46Z",
+            "last_commit": "2026-09-14T15:06:03Z",
             "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
-            "stars": 1643,
+            "stars": 1649,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1034,7 +1034,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2025-05-15T19:55:29Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
                 "stars": 2270,
@@ -1055,7 +1055,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2025-05-15T19:55:29Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
                 "stars": 2270,
@@ -1079,7 +1079,7 @@
                 "open_issues": 348,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14876,
+                "stars": 14875,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 348,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14876,
+                "stars": 14875,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32228,
+                "stars": 32227,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32228,
+                "stars": 32227,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:41:29.436Z",
+    "last_updated": "2026-09-15T01:54:38.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
