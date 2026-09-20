@@ -375,7 +375,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14148,
+            "stars": 14151,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14148,
+            "stars": 14151,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14148,
+            "stars": 14151,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -465,7 +465,7 @@
             "open_issues": 81,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2695,
+            "stars": 2694,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -490,7 +490,7 @@
             "open_issues": 81,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2695,
+            "stars": 2694,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
-            "stars": 1653,
+            "stars": 1654,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32222,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32222,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:37:30.802Z",
+    "last_updated": "2026-09-20T01:40:05.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
