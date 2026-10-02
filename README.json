@@ -19,7 +19,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34395,
+            "stars": 34400,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34395,
+            "stars": 34400,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34395,
+            "stars": 34400,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14878,
+                "stars": 14880,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14878,
+                "stars": 14880,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 28,
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": [
                   "activitynet",
                   "clip",
@@ -1165,7 +1165,7 @@
                 "open_issues": 28,
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": [
                   "activitynet",
                   "clip",
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32219,
+                "stars": 32217,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32219,
+                "stars": 32217,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:26:47.487Z",
+    "last_updated": "2026-10-02T02:34:56.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
