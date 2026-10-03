@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "CLIP",
-          "description": null,
+          "description": "openai/CLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,7 +30,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "openai/CLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "Model Card",
-          "description": null,
+          "description": "openai/CLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,7 +78,7 @@
         {
           "node_type": "item",
           "title": "cloob",
-          "description": null,
+          "description": "ml-jku/cloob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -99,7 +99,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "ml-jku/cloob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -120,7 +120,7 @@
         {
           "node_type": "item",
           "title": "DeCLIP",
-          "description": null,
+          "description": "Sense-GVT/DeCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "Sense-GVT/DeCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -178,7 +178,7 @@
         {
           "node_type": "item",
           "title": "DeCLIP",
-          "description": null,
+          "description": "Sense-GVT/DeCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "Sense-GVT/DeCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,7 +236,7 @@
         {
           "node_type": "item",
           "title": "klite",
-          "description": null,
+          "description": "microsoft/klite",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -257,7 +257,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "microsoft/klite",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "CyCLIP",
-          "description": null,
+          "description": "goel-shashank/CyCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -299,7 +299,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "goel-shashank/CyCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,7 +320,7 @@
         {
           "node_type": "item",
           "title": "flip",
-          "description": null,
+          "description": "facebookresearch/flip",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -341,7 +341,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "facebookresearch/flip",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -362,7 +362,7 @@
         {
           "node_type": "item",
           "title": "open_clip",
-          "description": null,
+          "description": "mlfoundations/open_clip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "mlfoundations/open_clip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -422,7 +422,7 @@
         {
           "node_type": "item",
           "title": "Model Card",
-          "description": null,
+          "description": "mlfoundations/open_clip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -452,7 +452,7 @@
         {
           "node_type": "item",
           "title": "EVA",
-          "description": null,
+          "description": "baaivision/EVA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -477,7 +477,7 @@
         {
           "node_type": "item",
           "title": "Model Card",
-          "description": null,
+          "description": "baaivision/EVA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -502,7 +502,7 @@
         {
           "node_type": "item",
           "title": "big_vision",
-          "description": null,
+          "description": "google-research/big_vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -523,7 +523,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "google-research/big_vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -544,7 +544,7 @@
         {
           "node_type": "item",
           "title": "CLIPA",
-          "description": null,
+          "description": "UCSC-VLAA/CLIPA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -574,7 +574,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "UCSC-VLAA/CLIPA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -604,7 +604,7 @@
         {
           "node_type": "item",
           "title": "MetaCLIP",
-          "description": null,
+          "description": "facebookresearch/MetaCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -625,7 +625,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "facebookresearch/MetaCLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -652,7 +652,7 @@
         {
           "node_type": "item",
           "title": "SLIP",
-          "description": null,
+          "description": "facebookresearch/SLIP",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -673,7 +673,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "facebookresearch/SLIP",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -715,7 +715,7 @@
         {
           "node_type": "item",
           "title": "BLIP",
-          "description": null,
+          "description": "salesforce/BLIP",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -744,7 +744,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "salesforce/BLIP",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -794,7 +794,7 @@
         {
           "node_type": "item",
           "title": "ViCHA",
-          "description": null,
+          "description": "mshukor/ViCHA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,7 +815,7 @@
         {
           "node_type": "item",
           "title": "License",
-          "description": null,
+          "description": "mshukor/ViCHA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -886,7 +886,7 @@
             {
               "node_type": "item",
               "title": "AudioCLIP",
-              "description": null,
+              "description": "AndreyGuzhov/AudioCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "AndreyGuzhov/AudioCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "lyrebird-wav2clip",
-              "description": null,
+              "description": "descriptinc/lyrebird-wav2clip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -949,7 +949,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "descriptinc/lyrebird-wav2clip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -970,7 +970,7 @@
             {
               "node_type": "item",
               "title": "SpeechCLIP",
-              "description": null,
+              "description": "atosystem/SpeechCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -997,7 +997,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "atosystem/SpeechCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1024,7 +1024,7 @@
             {
               "node_type": "item",
               "title": "CLAP",
-              "description": null,
+              "description": "LAION-AI/CLAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1045,7 +1045,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "LAION-AI/CLAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1066,7 +1066,7 @@
             {
               "node_type": "item",
               "title": "tortoise-tts",
-              "description": null,
+              "description": "neonbjb/tortoise-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1087,7 +1087,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "neonbjb/tortoise-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1115,7 +1115,7 @@
             {
               "node_type": "item",
               "title": "CLIP4Clip",
-              "description": null,
+              "description": "ArrowLuo/CLIP4Clip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1152,7 +1152,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "ArrowLuo/CLIP4Clip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1189,7 +1189,7 @@
             {
               "node_type": "item",
               "title": "fairseq",
-              "description": null,
+              "description": "facebookresearch/fairseq",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1214,7 +1214,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "facebookresearch/fairseq",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1239,7 +1239,7 @@
             {
               "node_type": "item",
               "title": "X-CLIP",
-              "description": null,
+              "description": "xuguohai/X-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1268,7 +1268,7 @@
             {
               "node_type": "item",
               "title": "License",
-              "description": null,
+              "description": "xuguohai/X-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:19:30.237Z",
+    "last_updated": "2026-10-03T04:41:31.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
