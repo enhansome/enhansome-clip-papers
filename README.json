@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 274,
+            "open_issues": 275,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34400,
+            "stars": 34402,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 274,
+            "open_issues": 275,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34400,
+            "stars": 34402,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -64,10 +64,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 274,
+            "open_issues": 275,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34400,
+            "stars": 34402,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -133,7 +133,7 @@
             "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "big-model",
               "clip",
@@ -162,7 +162,7 @@
             "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "big-model",
               "clip",
@@ -191,7 +191,7 @@
             "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "big-model",
               "clip",
@@ -220,7 +220,7 @@
             "open_issues": 24,
             "owner": "Sense-GVT",
             "repo": "DeCLIP",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "big-model",
               "clip",
@@ -291,7 +291,7 @@
             "open_issues": 2,
             "owner": "goel-shashank",
             "repo": "CyCLIP",
-            "stars": 126,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -312,7 +312,7 @@
             "open_issues": 2,
             "owner": "goel-shashank",
             "repo": "CyCLIP",
-            "stars": 126,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -375,7 +375,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14175,
+            "stars": 14181,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14175,
+            "stars": 14181,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14175,
+            "stars": 14181,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -665,7 +665,7 @@
             "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "SLIP",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -686,7 +686,7 @@
             "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "SLIP",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -707,7 +707,7 @@
             "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
-            "stars": 1738,
+            "stars": 1739,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
-            "stars": 1663,
+            "stars": 1664,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -899,7 +899,7 @@
                 "open_issues": 3,
                 "owner": "AndreyGuzhov",
                 "repo": "AudioCLIP",
-                "stars": 873,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -920,7 +920,7 @@
                 "open_issues": 3,
                 "owner": "AndreyGuzhov",
                 "repo": "AudioCLIP",
-                "stars": 873,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -941,7 +941,7 @@
                 "open_issues": 12,
                 "owner": "descriptinc",
                 "repo": "lyrebird-wav2clip",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -962,7 +962,7 @@
                 "open_issues": 12,
                 "owner": "descriptinc",
                 "repo": "lyrebird-wav2clip",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -983,7 +983,7 @@
                 "open_issues": 1,
                 "owner": "atosystem",
                 "repo": "SpeechCLIP",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "clip",
                   "deep-learning",
@@ -1010,7 +1010,7 @@
                 "open_issues": 1,
                 "owner": "atosystem",
                 "repo": "SpeechCLIP",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "clip",
                   "deep-learning",
@@ -1037,7 +1037,7 @@
                 "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2295,
+                "stars": 2296,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2295,
+                "stars": 2296,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14880,
+                "stars": 14877,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14880,
+                "stars": 14877,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 28,
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": [
                   "activitynet",
                   "clip",
@@ -1165,7 +1165,7 @@
                 "open_issues": 28,
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": [
                   "activitynet",
                   "clip",
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32217,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32217,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1252,7 +1252,7 @@
                 "open_issues": 6,
                 "owner": "xuguohai",
                 "repo": "X-CLIP",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "activitynet",
                   "didemo",
@@ -1281,7 +1281,7 @@
                 "open_issues": 6,
                 "owner": "xuguohai",
                 "repo": "X-CLIP",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "activitynet",
                   "didemo",
@@ -1317,7 +1317,7 @@
                 "open_issues": 12,
                 "owner": "ZrrSkywalker",
                 "repo": "PointCLIP",
-                "stars": 412,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1338,7 +1338,7 @@
                 "open_issues": 4,
                 "owner": "tyhuang0428",
                 "repo": "CLIP2Point",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:34:56.154Z",
+    "last_updated": "2026-10-03T02:19:30.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
