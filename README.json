@@ -19,7 +19,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34413,
+            "stars": 34415,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34413,
+            "stars": 34415,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34413,
+            "stars": 34415,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14187,
+            "stars": 14186,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14187,
+            "stars": 14186,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14187,
+            "stars": 14186,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -465,7 +465,7 @@
             "open_issues": 81,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -490,7 +490,7 @@
             "open_issues": 81,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -728,7 +728,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5708,
+            "stars": 5707,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -757,7 +757,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5708,
+            "stars": 5707,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14875,
+                "stars": 14876,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14875,
+                "stars": 14876,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:20:19.719Z",
+    "last_updated": "2026-10-06T10:55:45.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
