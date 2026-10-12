@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34438,
+            "stars": 34446,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34438,
+            "stars": 34446,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34438,
+            "stars": 34446,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14189,
+            "stars": 14194,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14189,
+            "stars": 14194,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14189,
+            "stars": 14194,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -728,7 +728,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5706,
+            "stars": 5705,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -757,7 +757,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5706,
+            "stars": 5705,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14880,
+                "stars": 14882,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14880,
+                "stars": 14882,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T02:11:50.679Z",
+    "last_updated": "2026-10-12T02:39:12.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
