@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34446,
+            "stars": 34452,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34446,
+            "stars": 34452,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34446,
+            "stars": 34452,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14194,
+            "stars": 14193,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14194,
+            "stars": 14193,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 30,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14194,
+            "stars": 14193,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -515,7 +515,7 @@
             "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3544,
+            "stars": 3546,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -536,7 +536,7 @@
             "open_issues": 57,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3544,
+            "stars": 3546,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -703,7 +703,7 @@
             "id": 452825945,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T15:08:23Z",
+            "last_commit": "2026-10-12T15:09:13Z",
             "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14882,
+                "stars": 14884,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14882,
+                "stars": 14884,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:39:12.691Z",
+    "last_updated": "2026-10-13T03:53:16.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
