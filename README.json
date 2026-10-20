@@ -19,7 +19,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34478,
+            "stars": 34488,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34478,
+            "stars": 34488,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34478,
+            "stars": 34488,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 32,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14204,
+            "stars": 14208,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 32,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14204,
+            "stars": 14208,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 32,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14204,
+            "stars": 14208,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -512,7 +512,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-05-19T13:55:52Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "google-research",
             "repo": "big_vision",
             "stars": 3554,
@@ -533,7 +533,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-05-19T13:55:52Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "google-research",
             "repo": "big_vision",
             "stars": 3554,
@@ -617,7 +617,7 @@
             "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
-            "stars": 1854,
+            "stars": 1855,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -638,7 +638,7 @@
             "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "MetaCLIP",
-            "stars": 1854,
+            "stars": 1855,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -703,7 +703,7 @@
             "id": 452825945,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-12T15:09:13Z",
+            "last_commit": "2026-10-19T15:08:00Z",
             "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
@@ -1037,7 +1037,7 @@
                 "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2311,
+                "stars": 2312,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2311,
+                "stars": 2312,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:43:13.892Z",
+    "last_updated": "2026-10-20T02:05:50.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
@@ -1365,7 +1365,7 @@
       "open_issues": 1,
       "owner": "jacobmarks",
       "repo": "awesome-clip-papers",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",
