@@ -19,7 +19,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34543,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34543,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34543,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 28,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14234,
+            "stars": 14236,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 28,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14234,
+            "stars": 14236,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 28,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14234,
+            "stars": 14236,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -515,7 +515,7 @@
             "open_issues": 59,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3562,
+            "stars": 3564,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -536,7 +536,7 @@
             "open_issues": 59,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3562,
+            "stars": 3564,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -707,7 +707,7 @@
             "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
-            "stars": 1743,
+            "stars": 1742,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -728,7 +728,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5703,
+            "stars": 5704,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -757,7 +757,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5703,
+            "stars": 5704,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
-            "stars": 1676,
+            "stars": 1677,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14892,
+                "stars": 14891,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14892,
+                "stars": 14891,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:58:23.915Z",
+    "last_updated": "2026-10-31T02:43:23.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
