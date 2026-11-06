@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 274,
+            "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34569,
+            "stars": 34574,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 274,
+            "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34569,
+            "stars": 34574,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -64,10 +64,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 274,
+            "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34569,
+            "stars": 34574,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -371,8 +371,8 @@
             "id": 390536799,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T21:28:44Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-06T02:48:40Z",
+            "open_issues": 27,
             "owner": "mlfoundations",
             "repo": "open_clip",
             "stars": 14245,
@@ -401,8 +401,8 @@
             "id": 390536799,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T21:28:44Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-06T02:48:40Z",
+            "open_issues": 27,
             "owner": "mlfoundations",
             "repo": "open_clip",
             "stars": 14245,
@@ -431,8 +431,8 @@
             "id": 390536799,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T21:28:44Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-06T02:48:40Z",
+            "open_issues": 27,
             "owner": "mlfoundations",
             "repo": "open_clip",
             "stars": 14245,
@@ -1037,7 +1037,7 @@
                 "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2325,
+                "stars": 2331,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 68,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2325,
+                "stars": 2331,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1079,7 +1079,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14893,
+                "stars": 14895,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1100,7 +1100,7 @@
                 "open_issues": 349,
                 "owner": "neonbjb",
                 "repo": "tortoise-tts",
-                "stars": 14893,
+                "stars": 14895,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:44:14.308Z",
+    "last_updated": "2026-11-06T03:39:56.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
@@ -1365,7 +1365,7 @@
       "open_issues": 1,
       "owner": "jacobmarks",
       "repo": "awesome-clip-papers",
-      "stars": 78,
+      "stars": 77,
       "topics": [
         "awesome",
         "awesome-list",
