@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34574,
+            "stars": 34576,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -43,7 +43,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34574,
+            "stars": 34576,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -67,7 +67,7 @@
             "open_issues": 273,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34574,
+            "stars": 34576,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -372,10 +372,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T02:48:40Z",
-            "open_issues": 27,
+            "open_issues": 24,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14245,
+            "stars": 14246,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -402,10 +402,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T02:48:40Z",
-            "open_issues": 27,
+            "open_issues": 24,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14245,
+            "stars": 14246,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -432,10 +432,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T02:48:40Z",
-            "open_issues": 27,
+            "open_issues": 24,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14245,
+            "stars": 14246,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
-            "stars": 1682,
+            "stars": 1683,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32207,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:39:56.191Z",
+    "last_updated": "2026-11-07T03:13:05.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
