@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 273,
+            "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34602,
+            "stars": 34609,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 273,
+            "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34602,
+            "stars": 34609,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -64,10 +64,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-25T18:46:40Z",
-            "open_issues": 273,
+            "open_issues": 274,
             "owner": "openai",
             "repo": "CLIP",
-            "stars": 34602,
+            "stars": 34609,
             "topics": [
               "deep-learning",
               "machine-learning"
@@ -375,7 +375,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14261,
+            "stars": 14264,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -405,7 +405,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14261,
+            "stars": 14264,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -435,7 +435,7 @@
             "open_issues": 29,
             "owner": "mlfoundations",
             "repo": "open_clip",
-            "stars": 14261,
+            "stars": 14264,
             "topics": [
               "computer-vision",
               "contrastive-loss",
@@ -465,7 +465,7 @@
             "open_issues": 80,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2699,
+            "stars": 2700,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -490,7 +490,7 @@
             "open_issues": 80,
             "owner": "baaivision",
             "repo": "EVA",
-            "stars": 2699,
+            "stars": 2700,
             "topics": [
               "foundation-models",
               "representation-learning",
@@ -515,7 +515,7 @@
             "open_issues": 60,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3572,
+            "stars": 3573,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -536,7 +536,7 @@
             "open_issues": 60,
             "owner": "google-research",
             "repo": "big_vision",
-            "stars": 3572,
+            "stars": 3573,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -707,7 +707,7 @@
             "open_issues": 43,
             "owner": "facebookresearch",
             "repo": "multimodal",
-            "stars": 1744,
+            "stars": 1746,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -728,7 +728,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5702,
+            "stars": 5701,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -757,7 +757,7 @@
             "open_issues": 135,
             "owner": "salesforce",
             "repo": "BLIP",
-            "stars": 5702,
+            "stars": 5701,
             "topics": [
               "image-captioning",
               "image-text-retrieval",
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "apple-aiml-research",
             "repo": "ml-mobileclip",
-            "stars": 1684,
+            "stars": 1685,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1034,10 +1034,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2025-05-15T19:55:29Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2341,
+                "stars": 2343,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1055,10 +1055,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2025-05-15T19:55:29Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "LAION-AI",
                 "repo": "CLAP",
-                "stars": 2341,
+                "stars": 2343,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:50.829Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32208,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32208,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:36:08.487Z",
+    "last_updated": "2026-11-14T03:34:41.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most impactful papers related to contrastive pretraining for multimodal models!",
